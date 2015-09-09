@@ -14,7 +14,7 @@ This module is not released yet.
 
 ## License ##
 
-This module has been released under the BSD-2-Clause. You can read the fully [license](https://github.com/icepay/zencart/blob/master/LICENSE.md) here.
+This module has been released under the BSD-2-Clause. You can read the fully [license](https://github.com/icepay/ZenCart/blob/master/LICENSE) here.
 
 ## Bug report ##
 
