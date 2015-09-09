@@ -2,7 +2,7 @@
 
 # Payment Module for ZenCart
 
-This module is not released yet.
+Make payments in your ZenCart webshop possible. Download the special ZenCart webshop module [here](https://github.com/icepay/ZenCart/releases) and you will be able to offer the most frequently used national and international online payment methods.
 
 ## Contributing ##
 
@@ -24,4 +24,4 @@ If you found a repeatable bug, and troubleshooting tips didn't help, then be sur
 
 Version | Release date | Changes
 ------- | ------------ | -------
-x       | x            | No public release yet.
+2.2.7   | 09/09/2015   | Compatible with ZenCart 1.5.4
